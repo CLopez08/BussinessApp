@@ -1,0 +1,14 @@
+.label {
+	-fx-font-size: 14pt; 
+	-fx-font-family: Century Gothic;
+}
+
+.button {
+	-fx-font-family: Century Gothic;
+}
+
+/*Custom Style Class for page titles*/
+.title {
+	-fx-font-size: 25pt;
+	-fx-font-weight: bold;
+}
